@@ -27,8 +27,8 @@ The recommended structure of a merchant gateway module is as follows.
 
 ```
  modules/gateways/
-  |- callback/merchantgateway.php
-  |  merchantgateway.php
+  |- callback/bixigateway.php
+  |  bixigateway.php
 ```
 
 ## Minimum Requirements ##

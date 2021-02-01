@@ -1,33 +1,32 @@
 {
     "schema": "1.0",
     "type": "whmcs-gateways",
-    "name": "sample-merchant-gateway",
+    "name": "bixi-gateway-module",
     "license": "MIT",
     "category": "gateway",
     "description": {
-        "name": "Sample Merchant Gateway Module",
-        "tagline": "Payment Gateway modules allow you to integrate payment solutions with the WHMCS platform.",
-        "long": "The sample files here demonstrate how we suggest a Merchant Payment Gateway module for WHMCS be structured and implemented.",
+        "name": "Bixi Merchant Gateway Module",
+        "tagline": "Integrate with number of Somalia based payment solutions with the WHMCS platform.",
+        "long": "Bixi Payment Gateway module integrates edahab, EVC to WHMCS.",
         "features": [
-            "Provide structure for 3D Secure Authentication",
-            "Provide structure for payment capture",
-            "Provide structure for payment refund"
+            "Provide both client and admin facing user interfaces",
+            "Utilize hook functionality within WHMCS"
         ]
     },
     "logo": {
         "filename": "logo.png"
     },
     "support": {
-        "homepage": "https:\/\/www.whmcs.com\/", 
-        "learn_more": "https:\/\/www.whmcs.com\/tour", 
-        "email": "support@whmcs.com", 
-        "support_url": "https:\/\/support.whmcs.com\/",
-        "docs_url": "https:\/\/developers.whmcs.com\/payment-gateways\/"
+        "homepage": "https:\/\/bixi.so\/",
+        "learn_more": "https:\/\/bixi.so\/tour",
+        "email": "support@bixi.so",
+        "support_url": "https:\/\/bixi.so\/",
+        "docs_url": ""
     },
     "authors": [
         {
-            "name": "WHMCS",
-            "homepage": "https:\/\/www.whmcs.com\/"
+            "name": "Shaksi",
+            "homepage": "https:\/\/bixi.so\/"
         }
     ]
 }

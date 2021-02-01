@@ -1,20 +1,20 @@
 {
-    "name": "whmcs/sample-merchant-gateway",
-    "description": "Sample Merchant Gateway Module for the WHMCS Billing Automation Platform",
+    "name": "whmcs/bixi-merchant-gateway",
+    "description": "Bixi Merchant Gateway Module for the WHMCS Billing Automation Platform",
     "keywords": [
         "whmcs",
         "web host automation platform",
-        "merchant gateway module",
+        "third party gateway module",
         "gateway module",
-        "3d secure"
+        "third party gateway"
     ],
-    "homepage": "http://www.whmcs.com/",
+    "homepage": "https://bixi.so/",
     "license": "MIT",
     "authors": [
         {
-            "name": "WHMCS Development Team",
-            "email": "development@whmcs.com",
-            "homepage": "http://www.whmcs.com/",
+            "name": "Bixi Team",
+            "email": "support@bixi.so",
+            "homepage": "https://bixi.so/",
             "role": "Developer"
         }
     ],
